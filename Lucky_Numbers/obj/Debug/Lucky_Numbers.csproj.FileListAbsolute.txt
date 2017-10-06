@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Lucky_Numbers\Lucky_Numbers\bin\Debug\Lucky_Numbers.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Lucky_Numbers\Lucky_Numbers\bin\Debug\Lucky_Numbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Lucky_Numbers\Lucky_Numbers\bin\Debug\Lucky_Numbers.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Lucky_Numbers\Lucky_Numbers\obj\Debug\Lucky_Numbers.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Lucky_Numbers\Lucky_Numbers\obj\Debug\Lucky_Numbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Lucky_Numbers\Lucky_Numbers\obj\Debug\Lucky_Numbers.pdb
