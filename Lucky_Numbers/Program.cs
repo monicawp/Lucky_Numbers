@@ -10,8 +10,10 @@ namespace Lucky_Numbers
     {
         static void Main(string[] args)
         {
-            string rePlay = "";
 
+            // rePlay will not work unless it is declared out of the do statement and before the initial code
+            string rePlay = "";
+            
             do
             {
                 //Lucky Numbers Part 1
@@ -28,7 +30,7 @@ namespace Lucky_Numbers
                 Console.WriteLine("Now, you must guess 6 random numbers within the range that you picked");
 
 
-
+                //i = iterator 
                 int[] guessedNumbers = new int[6];
                 for (int i = 0; i < guessedNumbers.Length; i++)
                 {
@@ -88,14 +90,14 @@ namespace Lucky_Numbers
                 Console.WriteLine("You have won $ " + moneyWon);
                 Console.WriteLine("Would you like to play again? YES/NO");
                 rePlay = Console.ReadLine().ToUpper();
-
-
             }
 
             while (rePlay == "YES");
 
-
-
+            if (rePlay == "NO")
+            {
+                Console.WriteLine("Thanks for playing!"); 
+            }
 
 
                        
